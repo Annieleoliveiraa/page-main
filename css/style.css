@@ -15,7 +15,7 @@ html, body {
    margin-right: auto;
    padding: 8px;
 
-   margin-top: 15px;
+   margin-top: 8px;
    border-radius: 8px;
 }
 
@@ -179,3 +179,10 @@ label {
    margin-top: 150px;
 }
 
+.attribution {
+   text-align: center;
+   font-size: 19px;
+   color:  hsl(228, 45%, 44%);
+
+   margin: 6px 0;
+}
