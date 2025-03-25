@@ -169,8 +169,14 @@ label {
 
    margin-top: 40px;
    margin-right: 84px;
+
+   transition: all 0.9s ease-in-out;
+   cursor: pointer;
 }
 
+.btn:hover {
+   background-color: hsl(243, 100%, 62%);
+}
 
 .teste-teste {
    display: flex;
